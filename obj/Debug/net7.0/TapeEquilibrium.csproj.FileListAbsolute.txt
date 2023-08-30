@@ -1,0 +1,14 @@
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\bin\Debug\net7.0\TapeEquilibrium.exe
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\bin\Debug\net7.0\TapeEquilibrium.deps.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\bin\Debug\net7.0\TapeEquilibrium.runtimeconfig.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\bin\Debug\net7.0\TapeEquilibrium.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\bin\Debug\net7.0\TapeEquilibrium.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\TapeEquilibrium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\TapeEquilibrium.AssemblyInfoInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\TapeEquilibrium.AssemblyInfo.cs
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\TapeEquilibrium.csproj.CoreCompileInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\TapeEquilibrium.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\refint\TapeEquilibrium.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\TapeEquilibrium.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\TapeEquilibrium.genruntimeconfig.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\TapeEquilibrium\obj\Debug\net7.0\ref\TapeEquilibrium.dll
